@@ -1,0 +1,12 @@
+{
+  "name": "PulseChat Desktop",
+  "description": "Authentic desktop messaging and calling suite inspired by WhatsApp and Discord, featuring real webcam video calls, voice calls, circular video notes, camera snapshots, and audio waveforms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
